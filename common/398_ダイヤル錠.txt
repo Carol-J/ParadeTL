@@ -3,17 +3,17 @@
 > BEGIN STRING
 \\c[1]\\f[\\cself[86]]\\cself[16]
 > CONTEXT COMMONEVENT:398/115/Picture < UNTRANSLATED
-
+\\c[1]\\f[\\cself[86]]\\cself[16]
 > END STRING
 
 > BEGIN STRING
 \\c[0]\\f[\\cself[86]]▲
 > CONTEXT COMMONEVENT:398/166/Picture < UNTRANSLATED
-
+\\c[0]\\f[\\cself[86]]▲
 > END STRING
 
 > BEGIN STRING
 \\c[0]\\f[\\cself[86]]▼
 > CONTEXT COMMONEVENT:398/169/Picture < UNTRANSLATED
-
+\\c[0]\\f[\\cself[86]]▼
 > END STRING
