@@ -5,7 +5,7 @@
 > CONTEXT COMMONEVENT:463/11/Message < UNTRANSLATED
 > CONTEXT COMMONEVENT:614/11/Message < UNTRANSLATED
 > CONTEXT COMMONEVENT:714/11/Message < UNTRANSLATED
-
+\\c[3]Defeat the enemy without taking damage!\\c[0]
 > END STRING
 
 > BEGIN STRING
@@ -13,19 +13,20 @@
 > CONTEXT COMMONEVENT:463/13/Picture < UNTRANSLATED
 > CONTEXT COMMONEVENT:614/13/Picture < UNTRANSLATED
 > CONTEXT COMMONEVENT:714/13/Picture < UNTRANSLATED
-
+\\E\\c[0]Won without taking damage!\\c[0]
 > END STRING
 
 > BEGIN STRING
 @13
 傷ひとつ…つけられないなん…て…
 > CONTEXT COMMONEVENT:463/135/Message < UNTRANSLATED
-
+Not even...a single scratch...
 > END STRING
 
 > BEGIN STRING
 @13
 格が…ちが…う…
 > CONTEXT COMMONEVENT:463/136/Message < UNTRANSLATED
-
+To think there was such a difference
+between us...
 > END STRING
