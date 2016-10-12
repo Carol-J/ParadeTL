@@ -4,14 +4,14 @@
 @44
 …！
 > CONTEXT COMMONEVENT:751/26/Message < UNTRANSLATED
-
+...!
 > END STRING
 
 > BEGIN STRING
 @51
 お母様！
 > CONTEXT COMMONEVENT:751/27/Message < UNTRANSLATED
-
+Mother!
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +19,7 @@
 マーチ！
 > CONTEXT COMMONEVENT:751/28/Message < UNTRANSLATED
 > CONTEXT COMMONEVENT:753/47/Message < UNTRANSLATED
-
+March!
 > END STRING
 
 > BEGIN STRING
@@ -28,28 +28,30 @@
 ルシマ親衛隊長もエスラの兵士長も
 やられてしまったということなのね。
 > CONTEXT COMMONEVENT:751/29/Message < UNTRANSLATED
-
+To think you made it here...
+I suppose Head Guard Rushima and
+Esura's general were defeated.
 > END STRING
 
 > BEGIN STRING
 @60
 揃いも揃って役立たずねぇ…
 > CONTEXT COMMONEVENT:751/31/Message < UNTRANSLATED
-
+Worthless fools, as I suspected.
 > END STRING
 
 > BEGIN STRING
 @52
 本当だ…後ろに何かがいる…
 > CONTEXT COMMONEVENT:751/32/Message < UNTRANSLATED
-
+It's true...Something's behind her!
 > END STRING
 
 > BEGIN STRING
 @4
 あれがマーチ女王を操っている有翼魔…
 > CONTEXT COMMONEVENT:751/33/Message < UNTRANSLATED
-
+The devil that's controlling Queen March...
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +59,8 @@
 うむ…あの影を斬れば…
 マーチは帰ってくる！
 > CONTEXT COMMONEVENT:751/34/Message < UNTRANSLATED
-
+If...If you cut down the devil...
+March will be freed!
 > END STRING
 
 > BEGIN STRING
@@ -65,28 +68,29 @@
 有翼魔ミュゼット！
 貴様を斬る！
 > CONTEXT COMMONEVENT:751/35/Message < UNTRANSLATED
-
+Archdemon Musette!
+Taste my blade!
 > END STRING
 
 > BEGIN STRING
 @50
 何っ…！？
 > CONTEXT COMMONEVENT:751/40/Message < UNTRANSLATED
-
+Wha-?!
 > END STRING
 
 > BEGIN STRING
 @50
 ぐおおっ！？
 > CONTEXT COMMONEVENT:751/49/Message < UNTRANSLATED
-
+Ghk!!
 > END STRING
 
 > BEGIN STRING
 @52
 お父様！
 > CONTEXT COMMONEVENT:751/53/Message < UNTRANSLATED
-
+Father!
 > END STRING
 
 > BEGIN STRING
@@ -94,7 +98,8 @@
 弱い…
 所詮は成りすましの力でしかない。
 > CONTEXT COMMONEVENT:751/54/Message < UNTRANSLATED
-
+How pathetic...
+His power's nothing more than a farce.
 > END STRING
 
 > BEGIN STRING
@@ -102,7 +107,8 @@
 なぜ…なぜこんな事をするの？
 あなたは一体何が目的で！？
 > CONTEXT COMMONEVENT:751/55/Message < UNTRANSLATED
-
+Why...Why have you done this?!
+What on earth are you doing?!
 > END STRING
 
 > BEGIN STRING
@@ -110,7 +116,8 @@
 この世界に生きる者共を
 我が手中に…それが私の目的。
 > CONTEXT COMMONEVENT:751/56/Message < UNTRANSLATED
-
+This world and all who live in it...
+I'll kill anyone to control it.
 > END STRING
 
 > BEGIN STRING
@@ -119,35 +126,38 @@
 結びつけ、まとめて治めてやろうと
 考えたのよ\\i[200]
 > CONTEXT COMMONEVENT:751/57/Message < UNTRANSLATED
-
+Waruto and Esura were joined by my power,
+and ruled by it, too. Peace under one ruler
+is far better, I'd say\\i[200]
 > END STRING
 
 > BEGIN STRING
 @59
 さあ、リチア…あなたも我がもとへ。
 > CONTEXT COMMONEVENT:751/59/Message < UNTRANSLATED
-
+Lichia...My darling girl...
+Come to my side.
 > END STRING
 
 > BEGIN STRING
 @52
 うっ…！？
 > CONTEXT COMMONEVENT:751/69/Message < UNTRANSLATED
-
+A-Ah!
 > END STRING
 
 > BEGIN STRING
 @4
 姫…！？
 > CONTEXT COMMONEVENT:751/70/Message < UNTRANSLATED
-
+Princess?!
 > END STRING
 
 > BEGIN STRING
 @42
 はい…お母様\\i[200]
 > CONTEXT COMMONEVENT:751/71/Message < UNTRANSLATED
-
+Yes...Mother\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -155,14 +165,15 @@
 姫！
 貴様…まさか姫まで操ろうと…！
 > CONTEXT COMMONEVENT:751/72/Message < UNTRANSLATED
-
+Princess!
+You...To bedevil the princess...!
 > END STRING
 
 > BEGIN STRING
 @41
 \\cdb[0:0:0]殿…お覚悟を\\i[200]
 > CONTEXT COMMONEVENT:751/79/Message < UNTRANSLATED
-
+Sir \\cdb[0:0:0]...Let's end this\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -170,7 +181,8 @@
 \\cdb[0:0:0]くん、
 ミュゼット様のために死んでちょうだい\\i[200]
 > CONTEXT COMMONEVENT:751/80/Message < UNTRANSLATED
-
+\\cdb[0:0:0], darling...
+Would you be a dear and die for me~?
 > END STRING
 
 > BEGIN STRING
@@ -179,19 +191,21 @@
 斬りかかってくるわよ。
 でもあなたにはこの者たちを斬れない…\\i[200]
 > CONTEXT COMMONEVENT:751/81/Message < UNTRANSLATED
-
+Fufufu\\i[200]
+What's wrong? Surely you'll have no problem
+cutting down these two beauties!
 > END STRING
 
 > BEGIN STRING
 @46
 どこまでも汚い手を…！
 > CONTEXT COMMONEVENT:751/82/Message < UNTRANSLATED
-
+Damnable cur...!
 > END STRING
 
 > BEGIN STRING
 @4
 姫…必ずお救いいたします！
 > CONTEXT COMMONEVENT:751/83/Message < UNTRANSLATED
-
+Princess...I'll save you!
 > END STRING
