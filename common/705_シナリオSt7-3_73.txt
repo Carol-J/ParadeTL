@@ -5,7 +5,8 @@
 もうすぐ謁見の間よ…！
 お母様は多分そこにいる！
 > CONTEXT COMMONEVENT:705/20/Message < UNTRANSLATED
-
+The throne room is close by!
+Mother might be there!
 > END STRING
 
 > BEGIN STRING
@@ -13,14 +14,15 @@
 あれほどの防衛網を突破して
 くるとは…さすがだな、万能剣士。
 > CONTEXT COMMONEVENT:705/26/Message < UNTRANSLATED
-
+To think that our defenses have been bested.
+What a clever little swordsman...
 > END STRING
 
 > BEGIN STRING
 @4
 親衛隊長…！
 > CONTEXT COMMONEVENT:705/27/Message < UNTRANSLATED
-
+The head guard!
 > END STRING
 
 > BEGIN STRING
@@ -29,26 +31,27 @@
 私たちはどうしても母のもとへ
 行かなければならないんです！
 > CONTEXT COMMONEVENT:705/28/Message < UNTRANSLATED
-
+Head Guard Rushima!
+We have to get to my mother at any cost!
 > END STRING
 
 > BEGIN STRING
 @51
 母に取り憑いている有翼魔を倒すために！
 > CONTEXT COMMONEVENT:705/29/Message < UNTRANSLATED
-
+She's possessed by a demon, we have to save her!
 > END STRING
 
 > BEGIN STRING
 @40
 ミュゼット様に歯向かう者には死を…！
 > CONTEXT COMMONEVENT:705/30/Message < UNTRANSLATED
-
+All who stand in Musette's way must be stopped...!
 > END STRING
 
 > BEGIN STRING
 @4
 親衛隊長も操られているのか…！？
 > CONTEXT COMMONEVENT:705/32/Message < UNTRANSLATED
-
+Is she being controlled?!
 > END STRING
