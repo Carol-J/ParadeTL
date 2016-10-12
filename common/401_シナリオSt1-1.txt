@@ -4,7 +4,8 @@
 @4
 さて、行くか。
 > CONTEXT COMMONEVENT:401/20/Message < UNTRANSLATED
-
+Now, then...
+Let's be off.
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +13,9 @@
 エスラ城は遠いけど道中にある町を拠点に
 していけば問題なくたどりつけるはずだ。
 > CONTEXT COMMONEVENT:401/21/Message < UNTRANSLATED
-
+Esura castle isn't too far off.
+If I begin the journey now,
+I'll get there soon enough.
 > END STRING
 
 > BEGIN STRING
@@ -20,7 +23,9 @@
 万能剣士ね！
 私たちと勝負してもらうわよ。
 > CONTEXT COMMONEVENT:401/29/Message < UNTRANSLATED
-
+Oh, brave sir knight!
+Don't think you'll get away
+so easily!
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +33,7 @@
 くっ…
 > CONTEXT COMMONEVENT:401/30/Message < UNTRANSLATED
 > CONTEXT COMMONEVENT:770/15/Message < UNTRANSLATED
-
+Damn...!
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +41,8 @@
 なぜどいつもこいつも
 僕をつけ狙うんだ！？
 > CONTEXT COMMONEVENT:401/31/Message < UNTRANSLATED
-
+Why am I being targeted
+so keenly?!
 > END STRING
 
 > BEGIN STRING
@@ -44,7 +50,8 @@
 だってあなたってすっごい
 わかりやすい弱点があるって有名だし～
 > CONTEXT COMMONEVENT:401/32/Message < UNTRANSLATED
-
+How could I resist when your
+weakness is so cute～?
 > END STRING
 
 > BEGIN STRING
@@ -53,7 +60,9 @@
 手が出せないけど…あなたなら
 弱点をつつけば倒せるかもって\\i[200]
 > CONTEXT COMMONEVENT:401/33/Message < UNTRANSLATED
-
+A tough guy like you puts up one hell
+of a fight...unless you're teased
+silly, that is\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -62,5 +71,7 @@
 私たち、強い剣士を倒したっていう
 実績が欲しいの！
 > CONTEXT COMMONEVENT:401/34/Message < UNTRANSLATED
-
+Sorry, hun\\i[200]
+We were promised a reward
+if we took you down!
 > END STRING
