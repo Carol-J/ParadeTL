@@ -5,7 +5,8 @@
 うふふ…彼は私たちに
 手を出せない。
 > CONTEXT COMMONEVENT:752/22/Message < UNTRANSLATED
-
+Ufufu...Even to the end,
+the knight raises his sword.
 > END STRING
 
 > BEGIN STRING
@@ -14,14 +15,16 @@
 いたぶる快感を一緒に
 味わいましょう\\i[200]
 > CONTEXT COMMONEVENT:752/23/Message < UNTRANSLATED
-
+Lichia, let us savor the pathetic
+struggling of this hapless fool...
+...Together\\i[200]
 > END STRING
 
 > BEGIN STRING
 @42
 はい、お母様\\i[200]
 > CONTEXT COMMONEVENT:752/24/Message < UNTRANSLATED
-
+Yes, mother \\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -29,7 +32,8 @@
 リチア姫とマーチ女王は
 あの「影」に操られている…
 > CONTEXT COMMONEVENT:752/25/Message < UNTRANSLATED
-
+Princess Lichia and Queen March
+are being controlled by that shadow...
 > END STRING
 
 > BEGIN STRING
@@ -38,21 +42,23 @@
 攻撃を当てないように\\c[0]して
 あの影を斬る！
 > CONTEXT COMMONEVENT:752/29/Message < UNTRANSLATED
-
+\\c[2]I must not attack the
+pair of them!\\c[0]
+The shadow's my quarry!
 > END STRING
 
 > BEGIN STRING
 @44
 うっ…
 > CONTEXT COMMONEVENT:752/68/Message < UNTRANSLATED
-
+A-Ah...
 > END STRING
 
 > BEGIN STRING
 @42
 あっ…！
 > CONTEXT COMMONEVENT:752/69/Message < UNTRANSLATED
-
+Ah...!
 > END STRING
 
 > BEGIN STRING
@@ -61,14 +67,17 @@
 我が洗脳術を
 破るとは！
 > CONTEXT COMMONEVENT:752/71/Message < UNTRANSLATED
-
+You miserable...!
+To break my spell
+so artlessly!
 > END STRING
 
 > BEGIN STRING
 @60
 でも、もう終わりよ！
 > CONTEXT COMMONEVENT:752/72/Message < UNTRANSLATED
-
+However, your
+struggle's in vain!
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +85,9 @@
 さあ…己の無力さを
 思い知るがいい\\i[200]
 > CONTEXT COMMONEVENT:752/79/Message < UNTRANSLATED
-
+Poor boy...
+You don't seem to realize
+just how powerless you are\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +95,9 @@
 ふふ…愚かね\\i[200]
 所詮あなたの想いなどその程度…
 > CONTEXT COMMONEVENT:752/119/Message < UNTRANSLATED
-
+Fufu...How foolish\\i[200]
+Stupid is as stupid does,
+I suppose...
 > END STRING
 
 > BEGIN STRING
@@ -93,7 +106,9 @@
 私の癒しの術で彼女らの
 傷をたちまち癒し…
 > CONTEXT COMMONEVENT:752/120/Message < UNTRANSLATED
-
+Fear not, foolish knight.
+My magic's able to heal the
+sting of an errant blade.
 > END STRING
 
 > BEGIN STRING
@@ -101,7 +116,9 @@
 操りながら全員で嫐り尽くして
 あげる\\i[200]
 > CONTEXT COMMONEVENT:752/121/Message < UNTRANSLATED
-
+To manipulate life is,
+after all, more than mere
+puppeteering\\i[200]
 > END STRING
 
 > BEGIN STRING
@@ -109,5 +126,7 @@
 さあ…我が神々しい姿に
 見惚れながら果てなさい\\i[200]
 > CONTEXT COMMONEVENT:752/123/Message < UNTRANSLATED
-
+Now...Relax for me.
+Gaze upon perfection
+and let yourself drift away\\i[200]
 > END STRING
