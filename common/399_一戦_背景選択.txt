@@ -3,5 +3,5 @@
 > BEGIN STRING
 背景選択
 > CONTEXT COMMONEVENT:399/6/Picture < UNTRANSLATED
-
+Background Selection
 > END STRING
