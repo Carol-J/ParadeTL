@@ -5,7 +5,7 @@
 どうしよう…
 > CONTEXT COMMONEVENT:411/117/Message < UNTRANSLATED
 > CONTEXT COMMONEVENT:651/120/Message < UNTRANSLATED
-
+What am I to do...
 > END STRING
 
 > BEGIN STRING
@@ -14,7 +14,9 @@
 船で南下し、異国情緒ただよう街
 ひちり京にたどり着いた。
 > CONTEXT COMMONEVENT:651/18/Message < UNTRANSLATED
-
+\\cdb[0:0:0] and Princess Lichia passed through
+Paipuoru cave and made their way to Hichiri,
+the capital of the exotic land of Tadayou.
 > END STRING
 
 > BEGIN STRING
@@ -22,14 +24,16 @@
 ここからさらに船で南下すればワラート城は
 目の前です。
 > CONTEXT COMMONEVENT:651/25/Message < UNTRANSLATED
-
+It should be possible to return to Waraato Castle
+by sailing south from here.
 > END STRING
 
 > BEGIN STRING
 @51
 もうすぐお母様のもとへ行く事ができるのね…。
 > CONTEXT COMMONEVENT:651/26/Message < UNTRANSLATED
-
+If that's true, we should be able to
+reach mother soon...
 > END STRING
 
 > BEGIN STRING
@@ -37,7 +41,9 @@
 それにしても、この町ってずいぶん女の人が
 少ないね。
 > CONTEXT COMMONEVENT:651/29/Message < UNTRANSLATED
-
+...That being said, there aren't many
+women in town. I wonder where they
+could be...?
 > END STRING
 
 > BEGIN STRING
@@ -45,7 +51,9 @@
 確かに…こんなに大きいところなのに
 何だか不自然ですね。
 > CONTEXT COMMONEVENT:651/31/Message < UNTRANSLATED
-
+Now that you mentionn it...
+For such a large city, that is
+a bit suspicious...
 > END STRING
 
 > BEGIN STRING
@@ -53,28 +61,29 @@
 やっほー\\i[200]
 万能剣士くん\\i[200]
 > CONTEXT COMMONEVENT:651/33/Message < UNTRANSLATED
-
+Yoo-hoo\\i[200]
+Oh, brave sir knight\\i[200]
 > END STRING
 
 > BEGIN STRING
 @52
 きゃっ！？
 > CONTEXT COMMONEVENT:651/45/Message < UNTRANSLATED
-
+K-Kya?!
 > END STRING
 
 > BEGIN STRING
 @4
 姫！！
 > CONTEXT COMMONEVENT:651/46/Message < UNTRANSLATED
-
+Princess!!
 > END STRING
 
 > BEGIN STRING
 @4
 くっ…姫を離せ！
 > CONTEXT COMMONEVENT:651/47/Message < UNTRANSLATED
-
+Kh...Unhand her, fiends!
 > END STRING
 
 > BEGIN STRING
@@ -82,35 +91,41 @@
 ふふふ…こんな隙だらけで
 お姫様を守ろうなんてお笑いね\\i[200]
 > CONTEXT COMMONEVENT:651/48/Message < UNTRANSLATED
-
+Fufufu...To think we'd get a
+chance like this. Too bad the
+princess' bodyguard is such a fool\\i[200]
 > END STRING
 
 > BEGIN STRING
 @52
 あ、あなたたち…お父様をどうしたの！？
 > CONTEXT COMMONEVENT:651/49/Message < UNTRANSLATED
-
+Y-You angels...
+My father! Where is he,
+is he all right?!
 > END STRING
 
 > BEGIN STRING
 @15
 …
 > CONTEXT COMMONEVENT:651/50/Message < UNTRANSLATED
-
+...
 > END STRING
 
 > BEGIN STRING
 @16
 さぁ？どうしたんだったかな～？
 > CONTEXT COMMONEVENT:651/51/Message < UNTRANSLATED
-
+Hmm? Something's wrong with him?
+I wonder what it could be~?
 > END STRING
 
 > BEGIN STRING
 @4
 貴様ら…とぼけるな！
 > CONTEXT COMMONEVENT:651/52/Message < UNTRANSLATED
-
+You monsters...
+Don't play the fool!
 > END STRING
 
 > BEGIN STRING
@@ -118,14 +133,16 @@
 あんなどうでもいいヤツより
 お姫様の心配をしたほうがいいんじゃない？
 > CONTEXT COMMONEVENT:651/53/Message < UNTRANSLATED
-
+You know, I would think that even a
+carefree gadabout like you would
+be a bit more serious when she's in danger.
 > END STRING
 
 > BEGIN STRING
 @4
 あ…ひ、姫！
 > CONTEXT COMMONEVENT:651/66/Message < UNTRANSLATED
-
+Gh...P-Princess!
 > END STRING
 
 > BEGIN STRING
@@ -133,56 +150,66 @@
 お姫様を取り返したかったら、
 北にある「大屋敷」までいらっしゃい\\i[200]
 > CONTEXT COMMONEVENT:651/67/Message < UNTRANSLATED
-
+We've recaptured her, but never fear.
+She'll be quite safe in the manor
+in the north of the city\\i[200]
 > END STRING
 
 > BEGIN STRING
 @15
 一番奥で待っててあげる。
 > CONTEXT COMMONEVENT:651/68/Message < UNTRANSLATED
-
+If you come alone, you just
+may be able to see her!
 > END STRING
 
 > BEGIN STRING
 @16
 私たちのもとへたどり着けるかしら…\\i[200]
 > CONTEXT COMMONEVENT:651/69/Message < UNTRANSLATED
-
+I wonder if you'll be able to
+resist being distracted before
+she's in your arms again...\\i[200]
 > END STRING
 
 > BEGIN STRING
 @4
 大屋敷…
 > CONTEXT COMMONEVENT:651/71/Message < UNTRANSLATED
-
+The manor...
 > END STRING
 
 > BEGIN STRING
 @4
 あれが大屋敷か…かなりでかいな
 > CONTEXT COMMONEVENT:651/82/Message < UNTRANSLATED
-
+Castles are bad enough...
+Hopefully it won't be too large
+to navigate...
 > END STRING
 
 > BEGIN STRING
 @55
 あ、あなた様はもしかして万能剣士様では…？
 > CONTEXT COMMONEVENT:651/85/Message < UNTRANSLATED
-
+Y-You...are you the prodigy
+knight sent to save the princess...?
 > END STRING
 
 > BEGIN STRING
 @55
 そのお顔…！やはりそうだ間違いない！
 > CONTEXT COMMONEVENT:651/87/Message < UNTRANSLATED
-
+Your face...!
+I knew it! There's no mistaking it!
 > END STRING
 
 > BEGIN STRING
 @55
 あなたの腕を見込んでお願いがあります！
 > CONTEXT COMMONEVENT:651/88/Message < UNTRANSLATED
-
+Your skill, it's clear even from
+your stance!
 > END STRING
 
 > BEGIN STRING
@@ -190,14 +217,16 @@
 私はこの町で商いをしている者…
 私の娘を…娘をお助けください！！
 > CONTEXT COMMONEVENT:651/89/Message < UNTRANSLATED
-
+Please, my daughter's being held
+within that manor's walls...
+I beg of you, save her!
 > END STRING
 
 > BEGIN STRING
 @4
 娘…？
 > CONTEXT COMMONEVENT:651/90/Message < UNTRANSLATED
-
+Daughter...?
 > END STRING
 
 > BEGIN STRING
@@ -205,7 +234,9 @@
 この町は女の人が極端に少ないようですが…
 何か理由があるのですか？
 > CONTEXT COMMONEVENT:651/91/Message < UNTRANSLATED
-
+It's true that there are hardly
+any women in this town...
+Tell me what's going on!
 > END STRING
 
 > BEGIN STRING
@@ -213,7 +244,9 @@
 はい…このひちり京ではつい最近領主が
 入れ替わりました。
 > CONTEXT COMMONEVENT:651/92/Message < UNTRANSLATED
-
+Of course...The new ruler's stolen
+away nearly every woman in the city
+and secreted them to the manor.
 > END STRING
 
 > BEGIN STRING
@@ -222,7 +255,9 @@
 とんでもない邪悪な精神と趣味の
 持ち主で…
 > CONTEXT COMMONEVENT:651/93/Message < UNTRANSLATED
-
+The new lady of the manor, Sasara,
+is truly a vile witch with
+a black heart!
 > END STRING
 
 > BEGIN STRING
@@ -230,7 +265,9 @@
 町中の娘を無理やりさらっては奴隷にして
 こき使っているのです…
 > CONTEXT COMMONEVENT:651/94/Message < UNTRANSLATED
-
+She takes our daughters and enslaves
+us, forcing us to work just for the
+hope that we'll see them again!
 > END STRING
 
 > BEGIN STRING
@@ -238,7 +275,8 @@
 しかも奴はすさまじい規模の私兵まで
 抱えている始末…
 > CONTEXT COMMONEVENT:651/95/Message < UNTRANSLATED
-
+What's more, her manor's guarded
+fiercely by her own private troop!
 > END STRING
 
 > BEGIN STRING
@@ -247,7 +285,9 @@
 私兵たちが門を固めていて我らには
 とても手が出せませぬ。
 > CONTEXT COMMONEVENT:651/96/Message < UNTRANSLATED
-
+They keep such vigilant watch that
+we're unable to set a single foot
+inside its walls!
 > END STRING
 
 > BEGIN STRING
@@ -256,7 +296,9 @@
 まさに千載一遇の奇跡！
 何卒！何卒…！
 > CONTEXT COMMONEVENT:651/97/Message < UNTRANSLATED
-
+But now! Now you've come,
+against all odds! Sir knight,
+I beseech thee...!
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +306,8 @@
 （困っている人達を見捨てるわけには
 　いかないな…）
 > CONTEXT COMMONEVENT:651/98/Message < UNTRANSLATED
-
+(I can't very well abandon a town in such
+dire straits as these...)
 > END STRING
 
 > BEGIN STRING
@@ -272,7 +315,9 @@
 商人さん、わかりました。僕もちょうどこの屋敷に
 用があったんです。
 > CONTEXT COMMONEVENT:651/99/Message < UNTRANSLATED
-
+Old codger, I understand.
+I too have a quarrel with the lady
+of this manor.
 > END STRING
 
 > BEGIN STRING
@@ -281,7 +326,9 @@
 その領主を説得して、なんとか女の人たちを
 解放してもらえるように頼んでみます。
 > CONTEXT COMMONEVENT:651/100/Message < UNTRANSLATED
-
+I'll make my way to her and attempt
+to negotiate peace with Lady Sasara.
+I'm sure she'll free them.
 > END STRING
 
 > BEGIN STRING
@@ -290,7 +337,9 @@
 ありがとうございます…！
 どうか、どうかお願いいたします！
 > CONTEXT COMMONEVENT:651/101/Message < UNTRANSLATED
-
+M-Makoto, my darling girl!
+Thank you, a thousand times thank you!
+H-How I can repay you, I've no idea!
 > END STRING
 
 > BEGIN STRING
@@ -298,7 +347,8 @@
 …確かにかなりの数の私兵が
 正門を守っているみたいだ。
 > CONTEXT COMMONEVENT:651/113/Message < UNTRANSLATED
-
+...The front gate's guarded well
+by the soldiers he mentioned...
 > END STRING
 
 > BEGIN STRING
@@ -308,7 +358,10 @@
 奴らの息がかかっていると考えて
 いいはずだ。
 > CONTEXT COMMONEVENT:651/114/Message < UNTRANSLATED
-
+Those two fallen angels are in there,
+as well. The princess' life is at
+stake, as well as the other girls
+from the city...
 > END STRING
 
 > BEGIN STRING
@@ -316,7 +369,9 @@
 正面から乗り込んだら
 かなりの激戦になるな…。
 > CONTEXT COMMONEVENT:651/115/Message < UNTRANSLATED
-
+To attack the front would be
+folly, of course...It would
+be a bloodbath.
 > END STRING
 
 > BEGIN STRING
@@ -324,7 +379,9 @@
 …奴隷にするために娘をさらっていると
 言っていたな。
 > CONTEXT COMMONEVENT:651/118/Message < UNTRANSLATED
-
+...Kidnapped and enslaved. Innocent
+girls kept like birds in this
+gilded cage. Vile.
 > END STRING
 
 > BEGIN STRING
@@ -333,7 +390,9 @@
 うまいことさらってもらって中に入れる
 可能性もある、か…？
 > CONTEXT COMMONEVENT:651/119/Message < UNTRANSLATED
-
+I wonder if it would be possible
+to sneak in...? Using a disguise,
+I could...
 > END STRING
 
 > BEGIN STRING
@@ -341,19 +400,24 @@
 でも、姫を救い出すためには
 躊躇していられない！いくぞ！
 > CONTEXT COMMONEVENT:651/123/Message < UNTRANSLATED
-
+Hrm. It seems a bit embarrassing,
+but...for the princess' sake,
+I'll put my pride aside!
 > END STRING
 
 > BEGIN STRING
 正面から突入する
 > CONTEXT COMMONEVENT:651/131/Choices < UNTRANSLATED
-
+Rusing in the front gate, his plan's
+set into motion... 
 > END STRING
 
 > BEGIN STRING
 女装してわざと捕まってみる
 > CONTEXT COMMONEVENT:651/131/Choices < UNTRANSLATED
-
+...disguised as a young woman,
+he purposefully lets himself be
+captured and brought inside.
 > END STRING
 
 > BEGIN STRING
@@ -361,7 +425,9 @@
 ええい、あんな格好二度とするもんか！
 正面突破あるのみ！
 > CONTEXT COMMONEVENT:651/135/Message < UNTRANSLATED
-
+Hrm. I wonder if I ought to be
+worried that the disguised worked so
+well. No matter. I'm inside.
 > END STRING
 
 > BEGIN STRING
@@ -369,7 +435,9 @@
 もう絶対にあの格好をする事は
 ないと思っていたけど…
 > CONTEXT COMMONEVENT:651/143/Message < UNTRANSLATED
-
+That being said, I'll bear
+this disguise just a bit
+longer.
 > END STRING
 
 > BEGIN STRING
@@ -377,14 +445,16 @@
 これも姫のもとに一刻も早く
 たどり着くためだ！
 > CONTEXT COMMONEVENT:651/144/Message < UNTRANSLATED
-
+After all, it's for the princess'
+sake! A moment's embarrassment
+is nothing.
 > END STRING
 
 > BEGIN STRING
 @56
 …
 > CONTEXT COMMONEVENT:651/155/Message < UNTRANSLATED
-
+...
 > END STRING
 
 > BEGIN STRING
@@ -392,21 +462,22 @@
 よし、あとは兵たちの目につくように
 うろうろして…
 > CONTEXT COMMONEVENT:651/156/Message < UNTRANSLATED
-
+Now, all I have to do is get
+myself captured...
 > END STRING
 
 > BEGIN STRING
 @33
 あなた！そこで止まりなさい！
 > CONTEXT COMMONEVENT:651/158/Message < UNTRANSLATED
-
+You! Halt!
 > END STRING
 
 > BEGIN STRING
 @56
 は、はい…
 > CONTEXT COMMONEVENT:651/159/Message < UNTRANSLATED
-
+Y-Yes...
 > END STRING
 
 > BEGIN STRING
@@ -414,7 +485,9 @@
 ずいぶん珍しい服を
 着てるわね…それにこの辺じゃ見ない顔。
 > CONTEXT COMMONEVENT:651/160/Message < UNTRANSLATED
-
+Your outfit's a bit unusual,
+isn't it? And your face...
+I've never seen you here before.
 > END STRING
 
 > BEGIN STRING
@@ -422,42 +495,45 @@
 ささら様もお喜びになるかも。
 こっちへ来なさい！
 > CONTEXT COMMONEVENT:651/161/Message < UNTRANSLATED
-
+Here, she's quite pretty.
+Lady Sasara will be pleased!
+Here, come with us, girl.
 > END STRING
 
 > BEGIN STRING
 @56
 お、おはなしください
 > CONTEXT COMMONEVENT:651/162/Message < UNTRANSLATED
-
+P-Please, let me go!
 > END STRING
 
 > BEGIN STRING
 @56
 き、きゃー…
 > CONTEXT COMMONEVENT:651/163/Message < UNTRANSLATED
-
+K-Kya!
 > END STRING
 
 > BEGIN STRING
 @56
 （よーし…中に入れたぞ）
 > CONTEXT COMMONEVENT:651/177/Message < UNTRANSLATED
-
+(Excellent! I managed
+to get inside!)
 > END STRING
 
 > BEGIN STRING
 @33
 ほら、ここに入りなさい！
 > CONTEXT COMMONEVENT:651/178/Message < UNTRANSLATED
-
+Hut! Get in there, you!
 > END STRING
 
 > BEGIN STRING
 @56
 うっ！
 > CONTEXT COMMONEVENT:651/179/Message < UNTRANSLATED
-
+U-Ugh!
 > END STRING
 
 > BEGIN STRING
@@ -465,28 +541,29 @@
 ささら様のお世話ができるのよ…
 光栄に思いなさい\\i[200]
 > CONTEXT COMMONEVENT:651/180/Message < UNTRANSLATED
-
+Just think, you'll be able to
+help Lady Sasara. What an honor\\i[200]
 > END STRING
 
 > BEGIN STRING
 @33
 逃げようなんて思わないことね。
 > CONTEXT COMMONEVENT:651/181/Message < UNTRANSLATED
-
+And don't dare trying to escape.
 > END STRING
 
 > BEGIN STRING
 @57
 ううっ…お父さん…お母さんっ…
 > CONTEXT COMMONEVENT:651/183/Message < UNTRANSLATED
-
+F-Father...M-M-Mother...
 > END STRING
 
 > BEGIN STRING
 @58
 恐いよぉ…
 > CONTEXT COMMONEVENT:651/184/Message < UNTRANSLATED
-
+I-I'm scaaaared...
 > END STRING
 
 > BEGIN STRING
@@ -494,35 +571,38 @@
 （すごい数の女の人だ…
 　ひどいことを…）
 > CONTEXT COMMONEVENT:651/185/Message < UNTRANSLATED
-
+(To think that there are
+this many women here...
+Truly astounding.)
 > END STRING
 
 > BEGIN STRING
 @56
 みなさん、安心してください！
 > CONTEXT COMMONEVENT:651/187/Message < UNTRANSLATED
-
+Everybody, please listen to me!
 > END STRING
 
 > BEGIN STRING
 @57
 …？
 > CONTEXT COMMONEVENT:651/188/Message < UNTRANSLATED
-
+...?
 > END STRING
 
 > BEGIN STRING
 @58
 \\f[40]ギャアアアアアアッ！！
 > CONTEXT COMMONEVENT:651/206/Message < UNTRANSLATED
-
+\\f[40]Gyaaaaaaa!!
 > END STRING
 
 > BEGIN STRING
 @6
 （そ、そんなに驚かなくても…）
 > CONTEXT COMMONEVENT:651/208/Message < UNTRANSLATED
-
+(W-Would that they weren't
+so emphatic in their surprise...)
 > END STRING
 
 > BEGIN STRING
@@ -532,14 +612,16 @@
 かけあってみなさんを解放してもらえるように
 頼みに来たんです。
 > CONTEXT COMMONEVENT:651/209/Message < UNTRANSLATED
-
+Please, calm yourselves! I wish you
+no harm. I came here to ensure your
+safe escape from this manor.
 > END STRING
 
 > BEGIN STRING
 @57
 ほ、本当ですか！？
 > CONTEXT COMMONEVENT:651/210/Message < UNTRANSLATED
-
+I-Is that true?!
 > END STRING
 
 > BEGIN STRING
@@ -548,21 +630,24 @@
 お待ちください。逃げたと知れたら
 兵士たちに何をされるか分かりません。
 > CONTEXT COMMONEVENT:651/211/Message < UNTRANSLATED
-
+Indeed. However, I need you to wait just
+a little longer. When the guards are distracted,
+you'll be able to escape.
 > END STRING
 
 > BEGIN STRING
 @57
 わ、分かりました…！
 > CONTEXT COMMONEVENT:651/212/Message < UNTRANSLATED
-
+Y-Yes, I understand! Thank you!
 > END STRING
 
 > BEGIN STRING
 @58
 どうかよろしくお願いします！
 > CONTEXT COMMONEVENT:651/213/Message < UNTRANSLATED
-
+Thank goodness a hero like
+you came to save us!
 > END STRING
 
 > BEGIN STRING
@@ -570,26 +655,29 @@
 （…屋敷の中もかなりの数の私兵が
 　守りを固めているな。）
 > CONTEXT COMMONEVENT:651/224/Message < UNTRANSLATED
-
+(The soldiers are likely bolstering
+their defenses around the manor...)
 > END STRING
 
 > BEGIN STRING
 @4
 （ここからは突っ切るしかないか。）
 > CONTEXT COMMONEVENT:651/225/Message < UNTRANSLATED
-
+(There's no recourse. I'll
+have to fight these guards.)
 > END STRING
 
 > BEGIN STRING
 @33
 き、貴様は万能剣士！
 > CONTEXT COMMONEVENT:651/228/Message < UNTRANSLATED
-
+T-The prodigy knight!
 > END STRING
 
 > BEGIN STRING
 @34
 どうやってあの厳重な守りを…！？
 > CONTEXT COMMONEVENT:651/229/Message < UNTRANSLATED
-
+H-How'd he get in here without
+us seeing?!
 > END STRING
