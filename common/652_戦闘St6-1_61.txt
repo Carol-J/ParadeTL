@@ -4,7 +4,7 @@
 @33
 はっ…万能剣士！
 > CONTEXT COMMONEVENT:652/21/Message < UNTRANSLATED
-
+Ha...the invading knight!
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +12,9 @@
 お触れの通りだ。本当に現れたぞ！
 出合え出合えーっ！
 > CONTEXT COMMONEVENT:652/22/Message < UNTRANSLATED
-
+To think we'd meet him
+in the flesh... How fortuitous!
+We'll finish him off here!
 > END STRING
 
 > BEGIN STRING
@@ -20,7 +22,9 @@
 いつかは奴も疲れるはずだ！
 数で押し潰せ！
 > CONTEXT COMMONEVENT:652/126/Message < UNTRANSLATED
-
+He'll be exhausted before long!
+Overwhelm him with sheer
+numbers!
 > END STRING
 
 > BEGIN STRING
@@ -28,5 +32,6 @@
 お、おのれ…
 狼藉者めっ…
 > CONTEXT COMMONEVENT:652/276/Message < UNTRANSLATED
-
+G-Guh...
+So strong...
 > END STRING
